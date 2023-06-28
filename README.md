@@ -1,2 +1,2 @@
-# merlofiorillo
-Static website for agricultural company @ merlofiorillo.it
+# HTML static website @ merlofiorillo.it
+Static HTML (placeholder) website for agricultural company @ merlofiorillo.it made with Bootstrap and some open source base template. Background photo by [sydney Rae](https://unsplash.com/@srz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash]("https://unsplash.com/photos/_5TGspSCIdw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText")
